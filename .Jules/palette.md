@@ -1,0 +1,3 @@
+## 2026-05-10 - Enhancing Contribution UX in Boilerplate Projects
+**Learning:** In repositories that are in an initial boilerplate or setup phase, the README and contribution workflow serve as the primary "user interface" for developers. Providing a clear structure, easy navigation (like Table of Contents and 'Back to top' links), and quality standards (PR templates) significantly improves the developer experience and ensures project health from the start.
+**Action:** Prioritize scannable documentation and explicit contribution guidelines when working on early-stage or infrastructure-only repositories.
