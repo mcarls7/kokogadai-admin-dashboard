@@ -1,0 +1,3 @@
+## 2026-05-23 - Contribution UX in Boilerplate Projects
+**Learning:** In repositories that are in an early boilerplate state without a UI, the README and contribution process (like PR templates) serve as the primary "User Interface" for developers. Enhancing scannability and setting accessibility standards early improves the "Contribution UX" (DX) and ensures future UI development follows best practices.
+**Action:** Use explicit HTML anchors for navigation in READMEs to ensure reliability across platforms, and implement PR templates with UX checklists to bake accessibility into the development lifecycle from day one.
