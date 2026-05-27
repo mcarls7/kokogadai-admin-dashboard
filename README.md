@@ -1,7 +1,45 @@
-echo "# kokogadai-admin-dashboard" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mcarls7/kokogadai-admin-dashboard.git
-git push -u origin main
+<a name="top"></a>
+# Kokogadai Admin Dashboard 🎨
+
+A user-centric dashboard focused on accessibility and micro-delights.
+
+### 🗺️ Quick Navigation
+[🚀 Overview](#overview) | [♿ Accessibility](#accessibility) | [🛠️ Setup](#setup) | [🤝 Contributing](#contributing)
+
+---
+
+<a name="overview"></a>
+## 🚀 Overview
+The **Kokogadai Admin Dashboard** provides an intuitive management interface. We believe good UX is invisible—it just works.
+
+[↑ Back to top](#top)
+
+---
+
+<a name="accessibility"></a>
+## ♿ Accessibility
+Accessibility is a core requirement, not a feature.
+- **Semantic HTML:** Correct elements for intended purposes.
+- **Keyboard Navigation:** Full support for tab and enter keys.
+- **ARIA Labels:** Descriptive labels for icon-only components.
+
+[↑ Back to top](#top)
+
+---
+
+<a name="setup"></a>
+## 🛠️ Setup
+```bash
+pnpm install
+pnpm dev
+```
+
+[↑ Back to top](#top)
+
+---
+
+<a name="contributing"></a>
+## 🤝 Contributing
+We welcome contributions that improve the user experience and accessibility. Please refer to our Pull Request template for guidelines.
+
+[↑ Back to top](#top)
