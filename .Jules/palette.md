@@ -1,0 +1,3 @@
+## 2026-05-29 - Enhancing Developer Experience in Boilerplate Repositories
+**Learning:** In repositories that are in a nascent or boilerplate state, the documentation (README.md) and contribution process serve as the primary "user interface" for developers. Improving scannability through explicit navigation anchors and establishing accessibility standards early via PR templates significantly lowers friction for future contributors.
+**Action:** Prioritize scannability and clear contribution standards (like PR templates with accessibility checklists) when working on early-stage projects to ensure UX/a11y goals are baked into the project's DNA from the start.
