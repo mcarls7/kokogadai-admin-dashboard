@@ -1,0 +1,3 @@
+## 2026-05-30 - Enhancing Contribution UX in Boilerplate Projects
+**Learning:** In projects that are in their initial boilerplate stage without a functional UI, the primary "User Interface" for developers is the documentation and the contribution workflow. Improving scannability and providing clear accessibility guidelines in PR templates significantly reduces friction for future contributors.
+**Action:** When encountering a repository with only a README, prioritize 'Contribution UX' by implementing structured navigation, explicit HTML anchors for stable linking, and accessibility checklists to establish project standards early.
