@@ -1,0 +1,5 @@
+## 🎨 Description
+[Describe your UX changes here]
+
+## ♿ UX & Accessibility Checklist
+- [ ] Semantic HTML | Keyboard Nav | ARIA Labels | Color Contrast | Focus States | Responsive
