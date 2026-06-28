@@ -1,7 +1,20 @@
-echo "# kokogadai-admin-dashboard" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mcarls7/kokogadai-admin-dashboard.git
-git push -u origin main
+# 🎨 Kokogadai Admin Dashboard
+
+[Overview](#overview) | [Accessibility](#accessibility) | [Setup](#setup) | [Contributing](#contributing)
+
+## 🏠 <a id="overview"></a> Overview
+A modern, accessible admin dashboard for Kokogadai.
+
+## ♿ <a id="accessibility"></a> Accessibility
+- Semantic HTML & ARIA labels
+- Full keyboard navigation support
+- High contrast focus indicators
+
+## 🛠️ <a id="setup"></a> Setup (Planned)
+```bash
+pnpm install
+pnpm dev
+```
+
+## 🤝 <a id="contributing"></a> Contributing
+Follow our UX & A11y checklist in PRs.
